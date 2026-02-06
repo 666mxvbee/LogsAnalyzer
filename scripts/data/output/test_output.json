@@ -1,0 +1,15 @@
+{
+  "files": [
+    "file2.txt"
+  ],
+  "totalRequestsCount": 0,
+  "responseSizeInBytes": {
+    "average": 0,
+    "max": 0,
+    "p95": 0
+  },
+  "resources": [],
+  "responseCodes": [],
+  "requestsPerDate": [],
+  "uniqueProtocols": []
+}
